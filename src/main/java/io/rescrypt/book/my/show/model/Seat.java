@@ -8,4 +8,5 @@ public class Seat {
     @Id
     private long seatId;
     private String seatCode;
+    private Auditorium auditorium;
 }

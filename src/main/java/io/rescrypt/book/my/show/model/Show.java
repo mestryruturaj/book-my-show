@@ -10,5 +10,5 @@ public class Show {
     private String name;
     private LocalDateTime showTime;
     private Movie movie;
-
+    private Auditorium auditorium;
 }
